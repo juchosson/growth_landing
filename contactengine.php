@@ -1,8 +1,8 @@
 <?php
 
-$EmailFrom = "julien@growthack.xyz";
-$EmailTo = "julien@growthack.xyz";
-$Subject = "Message from Prospect.io visitor";
+$EmailFrom = "juchosson@gmail.com";
+$EmailTo = "juchosson@gmail.com";
+$Subject = "Message from growthack.xyz visitor";
 $Name = Trim(stripslashes($_POST['Name'])); 
 $Email = Trim(stripslashes($_POST['Email'])); 
 $Message = Trim(stripslashes($_POST['Message'])); 
